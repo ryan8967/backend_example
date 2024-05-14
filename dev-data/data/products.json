@@ -1,0 +1,202 @@
+[
+  {
+    "catergory": "fender",
+    "productName": "American Ultra Stratocaster",
+    "productColor": "White",
+    "description": "American Ultra is our most advanced series of guitars and basses for discerning players who demand the ultimate in precision, performance and tone. The American Ultra Stratocaster HSS features a unique Modern D neck profile with Ultra rolled fingerboard edges for hours of playing comfort, and the tapered neck heel allows easy access to the highest register. A speedy 10 compound-radius fingerboard with 22 medium-jumbo frets means effortless and accurate soloing, while the Ultra Noiseless™ Hot single-coil pickups and Ultra Double Tap™ humbucking pickup, along with advanced wiring options, provide endless tonal possibilities - without hum. The sculpted rear body contours are as beautiful as they are functional. This versatile, state-of-the-art instrument will inspire you to push your playing to new heights.",
+    "productPrice": 2199,
+    "productImg": "white-strat.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "Professional Stratocaster",
+    "productColor": "2-Color Sunburst",
+    "description": "The American Pro II Stratocaster delivers instant familiarity and sonic versatility you'll feel and hear right away, with broad ranging improvements that add up to nothing less than a new standard for professional instruments.",
+    "productPrice": 1799,
+    "productImg": "sunburst-strat.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "Eric Clapton Stratocaster",
+    "productColor": "Black",
+    "description": "Experience the peerless Strat® style of Slowhand himself with the Eric Clapton Stratocaster, one of our most acclaimed and enduring artist signature models. With classic design and special features that give it exceptional tonal versatility and effortless feel worthy of one of the world's greatest names in rock and blues, it puts pure Clapton Stratocaster tone and feel straight into your hands. Features include an alder body, three Vintage Noiseless™ pickups, active mid-boost (25 db) and TBX circuits, special soft V-shaped neck, and blocked original vintage synchronized tremolo.",
+    "productPrice": 2299,
+    "productImg": "black-strat.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "Player Stratocaster",
+    "productColor": "Tidepool",
+    "description": "The inspiring sound of a Stratocaster is one of the foundations of Fender. Featuring this classic sound - bell-like high end, punchy mids and robust low end, combined with crystal-clear articulation - the Player Stratocaster is packed with authentic Fender feel and style. It's ready to serve your musical vision, it's versatile enough to handle any style of music and it's the perfect platform for creating your own sound.",
+    "productPrice": 899,
+    "productImg": "cyan-strat.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "American Vintage Telecaster",
+    "productColor": "Black",
+    "description": "The Telecaster® Custom marked one of Fender's earliest forays into the use of humbucking pickups. The Tele® Custom featured a 3-way toggle located on the upper bout and dual volume and tone controls mounted to a stylish, elongated pickguard. The American Vintage II 1977 Telecaster Custom reproduces the quintessential tone and feel of the original.",
+    "productPrice": 2399,
+    "productImg": "black-tele.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "Player Telecaster",
+    "productColor": "Red",
+    "description": "Bold, innovative and rugged, the Player Telecaster is pure Fender, through and through. The feel, the style and, most importantly, the sound - they're all there, waiting for you to make them whisper or wail for your music. Versatile enough to handle almost anything you can create and durable enough to survive any gig, this workhorse is a trusty sidekick for your musical vision.",
+    "productPrice": 899,
+    "productImg": "red-tele.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "American Vintage Telecaster",
+    "productColor": "scotch",
+    "description": "The American Vintage II 1951 Telecaster features an ash body finished in Butterscotch Blonde to capture the tone and look of the original. The substantial '51 U-shaped hard rock maple neck plays like a dream with a 7.25 radius fingerboard and vintage tall frets. Characteristic of production in 1951, 12th fret face-dot spacing is narrow and the sole Phillips-head fastener on the guitar is at the truss rod nut. The triple brass saddle bridge, single-line Fender Deluxe tuners and Pure Vintage '51 Telecaster pickups deliver classic twang and authentic Fender style.",
+    "productPrice": 1799,
+    "productImg": "yellow-tele.jpg"
+  },
+  {
+    "catergory": "fender",
+    "productName": "Performer Jazzmaster",
+    "productColor": "Placid Blue",
+    "description": "Born in Corona, California, the elegant American Performer Jazzmaster delivers the exceptional tone and refined feel you expect from an authentic Fender - with new player-oriented features that make it even more inspiring to play.",
+    "productPrice": 1599,
+    "productImg": "blue-jazz.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "Les Paul Standard ",
+    "productColor": "Translucent Fuchsia",
+    "description": "The newly refreshed Gibson SG Modern incorporates many contemporary updates that players have embraced, and it’s much more than a classic “solid guitar;” it’s a hybrid between an SG™ and a Les Paul™. Shaped and scarfed like a classic SG, the body is crafted with a AA maple top and mahogany back, characteristic of a Les Paul. This combination is renowned for its resonance and sustain. The genuine ebony, 24-fret compound radius fingerboard and asymmetrical, SlimTaper™ neck allow fast and silky access to the highest frets. A pair of calibrated Burstbucker™ Pro Alnico 5 humbuckers deliver firepower, and the push-pull controls allow you to switch between the Gibson humbucker and the single coil P-90 sounds, both of which have defined so many genres of music across multiple generations since we invented them.",
+    "productPrice": 2799,
+    "productImg": "blue-lp.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "Les Paul Standard ",
+    "productColor": "Inverness Green",
+    "description": "The new Les Paul Standard 50s Plain Top returns to the classic design that made it relevant, played, and loved – shaping sound across generations and genres of music. It pays tribute to Gibson's Golden Era of Innovation and brings authenticity back to life. The Les Paul Standard 50s Plain Top has a solid mahogany body with a plain maple top and a mahogany neck with a rounded, 50s Vintage profile with a rosewood fingerboard and trapezoid inlays. It's equipped with an ABR-1, the classic-style Tune-O-Matic™ bridge, an aluminum Stop Bar tailpiece, Vintage Deluxe tuners with Keystone buttons, and gold Top Hat knobs. ",
+    "productPrice": 2499,
+    "productImg": "blue-lp.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "ES 335",
+    "productColor": "Vintage Cherry",
+    "description": "The Gibson ES-339 is a modern classic designed for those seeking the tone and look of an ES-335, but desire a slightly smaller, lighter instrument. The pearloid dot inlay rosewood fingerboard on a hand-rolled Rounded mahogany neck remind players where it all started. The 57 / 57 Classic + humbuckers paired with our hand-wired tone circuit showcases the versatile Gibson ES tone that players have craved for over 60 years. Tuning stability and precise intonation are provided by the Grover Rotomatic tuners with Kidney buttons paired with light-weight Aluminum ABR-1 bridge and Stop bar tailpiece. Impressive gloss finishes include Cherry, and Trans Ebony.",
+    "productPrice": 2999,
+    "productImg": "es-335.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "SG Modern",
+    "productColor": "Blueberry Fade",
+    "description": "The Les Paul™ Standard 50s Figured Top returns to the classic design that made it relevant, played, and loved – shaping sound across generations and genres of music. It pays tribute to Gibson's Golden Era of Innovation and brings authenticity back to life. It boasts a solid mahogany body, an AA figured maple top, and a distinctive translucent custom color nitrocellulose lacquer finish that showcases the figured maple top. The mahogany neck has a rounded 50s Vintage profile and a rosewood fingerboard with trapezoid inlays.",
+    "productPrice": 2499,
+    "productImg": "blue-sg.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "SG Junior",
+    "productColor": "Vintage Cherry",
+    "description": "The newly refreshed SG Junior returns with a more accurate 60s classic design that made it relevant, played and loved -- shaping sound across generations and genres of music. Initially introduced in the early 60's as a student model, the SG Junior has been embraced by musicians for almost 60 years. The rich, Vintage Cherry lacquer finish, early 60's neck joint and sharp vintage body scarfing are hallmarks of this model. It’s equipped with the powerful single dogear P-90 pickup with handwired controls and an orange drop capacitor. The Vintage Deluxe style tuners with white buttons and compensated wraparound bridge also contribute to simplicity, function and rock-solid tone.",
+    "productPrice": 1599,
+    "productImg": "cherry-sg.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "SG Standard",
+    "productColor": "Silver Mist",
+    "description": "The Gibson SG Standard rocks the classic looks and features associated with the late 60s style SG™ models sought after by many. Now featured as part of the Custom Color Series, it adds exciting new color options to liven up any stage or guitar collection. It features a rounded profile mahogany neck, bound rosewood fingerboard, long tenon 19th fret neck joint, and a solid mahogany body that provides the backbone for singing sustain. The 490R and 490T Alnico 2 pickups provide the power to drive. A black, 5-ply, full-face pickguard set this SG Standard apart from others... a truly versatile classic. A soft shell case is also included.",
+    "productPrice": 1799,
+    "productImg": "silver-sg.jpg"
+  },
+  {
+    "catergory": "gibson",
+    "productName": "SG Special",
+    "productColor": "Black",
+    "description": "The SG™ Special returns to the classic design that made it relevant, played, and loved -- shaping sound across generations and genres of music. This early 60s style SG Special has the vibe and sound heard on countless classic rock recordings. The comfortable, SlimTaper™ mahogany neck and bound rosewood fingerboard are well known for fast, effortless playing. The two P-90 pickups are noted for their fat snarl when driven and their smooth sweetness when played clean. The SG Special is equipped with the 3-way toggle switch and has hand-wired controls with Orange Drop® capacitors. A hardshell case is included.",
+    "productPrice": 1899,
+    "productImg": "black-sg.jpg"
+  },
+  {
+    "catergory": "ibanez",
+    "productName": "GRG140",
+    "productColor": "White",
+    "description": "Ibanez made the Gio range in order to supply all guitarists with a good quality rock guitar that would sound good and be reliable but also be very affordable. Importantly, it proudly displays the Ibanez logo on the headstock, not some other name for a cheaper range. This proves that Ibanez are serious about their commitment to making this an affordable range of real quality. This addition to the Gio range gives cool 80s gunslinger looks with a pickguard reminiscent of the RG range and a classic HSS pickup combination to cover as many bases as possible. A good tremolo adds to the features on this edgy looking guitar. ",
+    "productPrice": 1099,
+    "productImg": "white-ibanez.jpg"
+  },
+  {
+    "catergory": "ibanez",
+    "productName": "Prestige RG5320C",
+    "productColor": "Pearl White",
+    "description": "The Prestige RG5320C is loaded with a pair of DiMarzio humbucking pickups. Characterized by a massive low end and tight midrange, these passive pickups provide a well-defined growl through a dirty amp. Swap over to your clean channel and these pickups become well behaved and deliver snappy cleans. If you're looking for extra punch and crunch, DiMarzio humbucking pickups are absolutely ideal.",
+    "productPrice": 1999,
+    "productImg": "white-ibanez1.jpg"
+  },
+  {
+    "catergory": "ibanez",
+    "productName": "RG421AHM",
+    "productColor": "Blue Moon Burst",
+    "description": "Steve Vai’s JEM series of guitars have become iconic designs in the quarter of a century they’ve been in production. It takes an eccentric genius like Steve to create an instrument with a Tree of Life inlay covering the entire fretboard and a large carrying handle cut into the body! It’s certainly an unusual combination but most agree that these flamboyant guitars look great! Although it is built for excessive shred (of course), lots of players are surprised at how versatile they are.",
+    "productPrice": 1999,
+    "productImg": "navy-ibanez.jpg"
+  },
+  {
+    "catergory": "ibanez",
+    "productName": "Signature JS240PS",
+    "productColor": "Candy Apple",
+    "description": "This is one highly equipped tonal monster! In the bridge is Joe's signature DiMarzio Satchur8 which gives him that huge sound while still being fully capable of straddling numerous styles. The neck position is fitted with a Sustaniac Driver. Pulling up the tone pot switches on the Sustaniac for some out of this world note sustain as well as the possibility for some pretty experiment sounds by using the 3 way mode selector!",
+    "productPrice": 1999,
+    "productImg": "red-ibanez.jpg"
+  },
+  {
+    "catergory": "amps",
+    "productName": "Champion",
+    "productColor": "Fender",
+    "description": "Compact, easy to use and versatile enough for any style of guitar playing, the 20-watt Champion 20 is an ideal choice for your first practice amp. Straightforward controls, cool effects and versatile amp voicings make it easy to dial in just the right sounds for rock, blues, metal, country, jazz and more.",
+    "productPrice": 199,
+    "productImg": "champion-fender.jpg"
+  },
+  {
+    "catergory": "amps",
+    "productName": "Custom Princeton",
+    "productColor": "Fender",
+    "description": "The guitarist with an eye and ear for late-'60s Fender silver panel style will love the '68 Custom Princeton Reverb, which honors the classic look and great sound of that era's amps. Small, light and moderately powered, longtime recording and gigging favorite the Princeton Reverb received a fresh new face in 1968 - a silver-and-turquoise front panel with aluminum grille cloth trim, with tone, reverb and tremolo that was still pure Fender. The '68 Custom Princeton Reverb also has modified tone circuitry for greater tonal flexibility with pedals and reduced negative feedback for greater touch sensitivity and quicker overdrive onset.",
+    "productPrice": 1299,
+    "productImg": "princeton-fender.jpg"
+  },
+  {
+    "catergory": "amps",
+    "productName": "Mustang",
+    "productColor": "Fender",
+    "description": "The Fender Mustang LT 50 is a herald for a new era of digital guitar amplification. It displays the kind of pristine audio that only comes from decades of amplification experience. Its compact yet robust design is packed full of power, ready to take your tone to the next level. Discover a huge selection of sound with the user-friendly colour display. Whatever genre you love, this is the ideal accompaniment. All the sound comes from a 12 speaker that guarantees sparkling clean audio and noticeable pronunciation. This is the future of boutique amplification.",
+    "productPrice": 999,
+    "productImg": "mustang-fender.jpg"
+  },
+  {
+    "catergory": "amps",
+    "productName": "Katana Mini",
+    "productColor": "Boss",
+    "description": "The guitarist with an eye and ear for late-'60s Fender silver panel style will love the '68 Custom Princeton Reverb, which honors the classic look and great sound of that era's amps. Small, light and moderately powered, longtime recording and gigging favorite the Princeton Reverb received a fresh new face in 1968 - a silver-and-turquoise front panel with aluminum grille cloth trim, with tone, reverb and tremolo that was still pure Fender. The '68 Custom Princeton Reverb also has modified tone circuitry for greater tonal flexibility with pedals and reduced negative feedback for greater touch sensitivity and quicker overdrive onset.",
+    "productPrice": 399,
+    "productImg": "katana-boss.jpg"
+  },
+  {
+    "catergory": "amps",
+    "productName": "MG15GFX",
+    "productColor": "Marshall",
+    "description": "The Marshall MG15GFX Gold 15W Guitar Combo features the iconic 'gold' front panel design and delivers 15 watts of portable Marshall tone with added sound effects and reverb. It is the ideal grab-and-go practice amplifier with its 8'' custom speaker and compact proportions. The amp includes 4 channels so you can switch between clean and crunch sounds, with the overdrive channel available in both 'green' and 'red' modes. The FX dial allows you to select from 5 different digital effects, while the separate reverb creates a spacious ambience over your tone.",
+    "productPrice": 699,
+    "productImg": "MG15GFX-marshall.jpg"
+  },
+  {
+    "catergory": "amps",
+    "productName": "DSL40CR ",
+    "productColor": "Marshall",
+    "description": "The Marshall DSL40CR 40W Valve Combo is a powerful amplifier that delivers a full assortment of features for use on stage and in the studio. It is loaded with EL34 valves for an organic and responsive sound and feel. The amplifier has 2 gain modes (Classic and Ultra) which each have 2 modes, effectively giving you 4 channels of versatile gain levels. This will let you shape every sound imaginable; from clean tones through to edge-of-breakup sounds and onto full-on saturation lead sounds. The DSL40CR has a full range of EQ with independent presence and resonance controls to match the acoustics of the room. It also has a built-in reverb with independent levels across the two gain modes. 2 separate master volumes add the ability to create a solo level sound for instant volume boosts, accessible via the footswitch. The DSL40CR also has a switchable output power setting meaning you can get the same great valve tone at a lower volume. A separate direct output also gives access to Softube emulation, letting you can get the sound of a professionally mic'd up cabinet simply by running a cable between the amp and a mixing desk/recording device.",
+    "productPrice": 1299,
+    "productImg": "DSL40CR-marshall.jpg"
+  }
+]
